@@ -1,0 +1,48 @@
+<!-- Reviews -->
+
+    <section class="teams" id="teams">
+      <div class="max-width">
+        <h2 class="title">Reviews</h2>
+        <div class="carousel owl-carousel">
+          <div class="card">
+            <div class="box">
+              <img src="https://images-ext-2.discordapp.net/external/LBHiTHWFoMcqQUvSunyWC1UyA_NtJx0tU9h1g-M-KBw/https/cdn.discordapp.com/avatars/495953543543521280/a_498696048091644c0f257bc47e8076de.gif" alt="Profile Picture">
+              <div class="text">Name 1</div>
+              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, id.</p>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="box">
+              <img src="https://images-ext-2.discordapp.net/external/LBHiTHWFoMcqQUvSunyWC1UyA_NtJx0tU9h1g-M-KBw/https/cdn.discordapp.com/avatars/495953543543521280/a_498696048091644c0f257bc47e8076de.gif" alt="Profile Picture">
+              <div class="text">Name 2</div>
+              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, id.</p>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="box">
+              <img src="https://images-ext-2.discordapp.net/external/LBHiTHWFoMcqQUvSunyWC1UyA_NtJx0tU9h1g-M-KBw/https/cdn.discordapp.com/avatars/495953543543521280/a_498696048091644c0f257bc47e8076de.gif" alt="Profile Picture">
+              <div class="text">Name 3</div>
+              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, id.</p>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="box">
+              <img src="https://images-ext-2.discordapp.net/external/LBHiTHWFoMcqQUvSunyWC1UyA_NtJx0tU9h1g-M-KBw/https/cdn.discordapp.com/avatars/495953543543521280/a_498696048091644c0f257bc47e8076de.gif" alt="Profile Picture">
+              <div class="text">Name 4</div>
+              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, id.</p>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="box">
+              <img src="https://images-ext-2.discordapp.net/external/LBHiTHWFoMcqQUvSunyWC1UyA_NtJx0tU9h1g-M-KBw/https/cdn.discordapp.com/avatars/495953543543521280/a_498696048091644c0f257bc47e8076de.gif" alt="Profile Picture">
+              <div class="text">Name 5</div>
+              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, id.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
