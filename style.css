@@ -499,7 +499,7 @@ footer span a:hover {
 
 /* Responsive Media Query */
 
-@media(max-width: 616px) {
+/*@media(max-width: 616px) {
     .home {
         display: flex;
         background: url("https://images-ext-1.discordapp.net/external/Oq_9K1bKMKoboa3lZjs_Hlrqv-Pvq9mPnXQS-qKKTXg/https/ok-but.why-am-i-he.re/yAcW7L.png?width=431&height=682");
@@ -509,7 +509,7 @@ footer span a:hover {
         color: #fff;
         min-height: 500px;
     }
-}
+}*/
 
 @media(max-width: 1300px) {
     .home .max-width {
