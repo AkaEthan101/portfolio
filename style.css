@@ -148,7 +148,7 @@ section .title::after {
 
 .home {
     display: flex;
-    background: url("https://media.discordapp.net/attachments/497152916767899648/796316127234883614/Untitled.png?width=1058&height=567");
+    background: url("https://images-ext-1.discordapp.net/external/gEk_Yl9lnwgzAPbvFyuouRblhIwLjRjUXZQFL4Iox_I/%3Fwidth%3D1058%26height%3D595/https/media.discordapp.net/attachments/497152916767899648/796514663109361704/sitebg2.jpg");
     height: 100vh;
     background-size: cover;
     background-attachment: fixed;
@@ -506,7 +506,7 @@ footer span a:hover {
 @media(max-width: 432px) {
     .home {
         display: flex;
-        background: url("https://media.discordapp.net/attachments/497152916767899648/796514663109361704/sitebg2.jpg?width=1058&height=595");
+        background: url("https://media.discordapp.net/attachments/497152916767899648/796671038078976010/sitebg2.jpg?width=496&height=656");
         height: 100vh;
         background-size: cover;
         background-attachment: fixed;
