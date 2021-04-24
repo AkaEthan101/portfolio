@@ -401,11 +401,11 @@ section .title::after {
 }
 
 .skills-content .right .js::before {
-    width: 90%;
+    width: 95%;
 }
 
 .skills-content .right .lua::before {
-    width: 85%;
+    width: 40%;
 }
 
 /* Reviews */
