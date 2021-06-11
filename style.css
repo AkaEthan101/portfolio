@@ -390,14 +390,14 @@ section .title::after {
     background: #46C1FA;
 }
 
-/* --- Percentages --- */
+/* Percentages */
 
 .skills-content .right .html::before {
-    width: 60%;
+    width: 50%;
 }
 
 .skills-content .right .css::before {
-    width: 50%;
+    width: 40%;
 }
 
 .skills-content .right .js::before {
@@ -405,7 +405,7 @@ section .title::after {
 }
 
 .skills-content .right .lua::before {
-    width: 40%;
+    width: 60%;
 }
 
 /* Reviews */
